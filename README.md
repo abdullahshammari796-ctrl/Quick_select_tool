@@ -2,8 +2,6 @@
 
 An interactive teaching tool for the Quickselect algorithm, built for BCS 309 Algorithms I at Canadian University Dubai.
 
-## 🔗 Live Demo
-[View the tool on GitHub Pages](file:///C:/Users/user/Downloads/quickselect_tool%20(3).html)
 
 ## 📖 About
 This tool teaches Quickselect (Hoare's Selection Algorithm) through:
